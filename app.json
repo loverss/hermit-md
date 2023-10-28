@@ -4,18 +4,18 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/loverss/hermit-md",
   "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "10_28_H_E_R_M_I_T_WO_XYL5": ""
     },
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "923420481004"
     },
     "MODE": {
       "description": "mode public or private",
@@ -68,7 +68,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "REJECT_CALL": {
       "description": "automatic reject call",
